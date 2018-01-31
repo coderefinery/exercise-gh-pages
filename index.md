@@ -34,7 +34,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Section 1
 
-Write me ...
+We are learning how to use git from github with a fork. That's cool!!!
 
 
 ### Section 2
