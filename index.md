@@ -34,12 +34,12 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Section 1
 
-Write me ...
+We are learning how to use git from github with a fork. That's cool!!!
 
 
-### Section 2
+### Kine's section 2
 
-Write me ...
+This is Kine's amendments to section 2
 
 
 ### Section 3
@@ -49,10 +49,11 @@ Write me ...
 
 ### Section 4
 
-Write me ...
+Let us check some [news](http://news.google.com)
 
 
-### Section 5
+### Soon it's time to quiz
+
 
 Write me ...
 
@@ -60,3 +61,5 @@ Write me ...
 ### Section 6 
 
 There are hippos trampling the flowers, somenone needs to stop them.
+
+Remember the final preparations.. :)
