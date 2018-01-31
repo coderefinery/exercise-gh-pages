@@ -49,7 +49,7 @@ Write me ...
 
 ### Section 4
 
-Write me ...
+Let us check some [news](http://news.google.com)
 
 
 ### Soon it's time to quiz
