@@ -37,9 +37,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 We are learning how to use git from github with a fork. That's cool!!!
 
 
-### Section 2
+### Kine's section 2
 
-Write me ...
+This is Kine's amendments to section 2
 
 
 ### Section 3
