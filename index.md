@@ -54,4 +54,12 @@ Let us check some [news](http://news.google.com)
 
 ### Soon it's time to quiz
 
+
+Write me ...
+
+
+### Section 6 
+
+There are hippos trampling the flowers, somenone needs to stop them.
+
 Remember the final preparations.. :)
